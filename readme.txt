@@ -1,3 +1,5 @@
+记录Java单线程程序内函数调用日志。
+
 btnzlog文件夹内是源代码（Source code in folder btnzlog）
 
 btnzlogger文件夹内是测试代码（Test code in folder btnzlogger）
